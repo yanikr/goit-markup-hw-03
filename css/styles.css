@@ -175,6 +175,8 @@ button {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .button:hover,
@@ -363,6 +365,7 @@ button {
   letter-spacing: 0.03em;
   color: var(--main-text-color);
   border-radius: 4px;
+  padding: 6px 22px;
 }
 
 .button-filter:hover,
